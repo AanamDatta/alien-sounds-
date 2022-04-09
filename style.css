@@ -1,0 +1,46 @@
+#heading {
+    background-color: rgb(212, 212, 212);
+    width: 100%;
+    margin-top: 0%;
+    padding: 10px;
+}
+#title {
+    color: tomato;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+#note {
+    color: ivory;
+    font-family: monospace;
+}
+#main {
+    background-color: lightcoral;
+padding: 30px;
+padding-bottom: 120px;
+}
+#aliens-01 {
+    height: 250px;
+
+}
+#aliens-02 {
+    height: 250px;
+
+}
+#aliens-03 {
+    height: 250px;
+
+}
+#aliens-04 {
+    height: 250px;
+
+}
+#footer {
+    background-color: rgb(238, 228, 228);
+    width: 100%;
+    margin-top: 0%;
+    padding: 10px;
+margin: 0;
+}
+#developer {
+ font-size: 30px;
+ color: rgb(102, 101, 101);   
+}
